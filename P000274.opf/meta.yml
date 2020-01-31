@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: མཁས་ཤིང་དངོས་གྲུབ་བརྙེས་པའི་རྡོ་རྗེའི་རིག་པ་འཛིན་དབང་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ་དཔལ་བཟང་པོ་སློབ་བརྒྱུད་དང་བཅས་པའི་རྣམ་ཐར་ཉུང་ངུར་བརྗོད་པ་ངོ་མཚར་ཟླ་བ་བདུད་རྩིའི་འཛུམ་ཕྲེང་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
+  sku: SHE-DKR-02
+  layers:
+  - book_title
+  - author
+  - quotation
+web_metadata:
+  title:
+    en: An Amazing Pattern of Moonlike Nectar:A Biography of Shechen Gyaltsab Gyurme
+      Pema Namgyal and His Disciples
+    bo: མཁས་ཤིང་དངོས་གྲུབ་བརྙེས་པའི་རྡོ་རྗེའི་རིག་པ་འཛིན་དབང་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ་དཔལ་བཟང་པོ་སློབ་བརྒྱུད་དང་བཅས་པའི་རྣམ་ཐར་ཉུང་ངུར་བརྗོད་པ་ངོ་མཚར་ཟླ་བ་བདུད་རྩིའི་འཛུམ་ཕྲེང་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Dilgo Khyentse Series–  Book 2
+    bo: དིལ་མགོ་མཁྱེན་བཙེ་གསུང་འབུམ།–  དེབ། ༢
+  author:
+    en: Kyabje Dilgo Khyentse Rinpoche
+    bo: ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-DKR-02
+  category:
+    en: Biography
+    bo: རྣམ་ཐར།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-DKR-02.epub
+  description:
+    en: ''
+    bo: ''
